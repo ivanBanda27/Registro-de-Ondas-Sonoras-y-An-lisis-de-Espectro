@@ -38,7 +38,7 @@ Sigue estos pasos para clonar y ejecutar el programa en tu equipo local:
 Abre tu terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone https://github.com/ivanBanda27/registro-espectro-sonido.git
+git clone https://github.com/ivanBanda27/Registro-de-Ondas-Sonoras-y-An-lisis-de-Espectro.git
 
 cd registro-espectro-sonido
 ```
